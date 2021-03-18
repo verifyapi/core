@@ -1,0 +1,20 @@
+{
+    "name": "verifyapi/core",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jakub Englický",
+            "email": "jakubenglicky@gmail.com"
+        }
+    ],
+    "description": "",
+    "minimum-stability": "dev",
+    "require": {
+        "verifyapi/api": "dev-master"
+    },
+    "autoload": {
+        "classmap": [
+           "app/"
+        ]
+    }
+}

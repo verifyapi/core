@@ -1,0 +1,3 @@
+services:
+	defaultController:
+		factory: VerifyApi\Core\Controller\DefaultController
